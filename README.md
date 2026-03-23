@@ -2,8 +2,7 @@
 
 **Senior Software Engineer** at [Stout Industrial Technology](https://www.stout.ai/) | Robotics & Agriculture AI
 
-I build autonomous systems that help farmers grow more with less. Previously at **Google X** (Everyday Robots) and **Google Brain**, where I got robots to [pick up kitchens](https://say-can.github.io/), [dance](https://www.youtube.com/watch?v=UI6IKlHh-pQ), and [make music](https://everydayrobots.com/thinking/experiments-and-explorations-robots-as-musical-instruments). UCSC Robotics BSc.
-
+I build autonomous systems that help farmers grow more with less. Previously at **Google X** (Everyday Robots) and **Google Brain**, where I got robots to [pick up kitchens](https://say-can.github.io/), [dance](https://www.youtube.com/watch?v=UI6IKlHh-pQ), and [make music](https://everydayrobots.com/thinking/experiments-and-explorations-robots-as-musical-instruments).
 Based in San Francisco, CA. Open to collabs.
 
 ---
